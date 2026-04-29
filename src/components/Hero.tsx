@@ -36,13 +36,6 @@ const Hero = () => {
               <Mail size={18} />
               Contact Me
             </a>
-            <a
-              href="#"
-              className="px-8 py-3 rounded-full bg-secondary text-secondary-foreground font-medium hover:bg-secondary/80 transition-colors flex items-center gap-2"
-            >
-              <Download size={18} />
-              Download Resume
-            </a>
           </div>
 
           <div className="flex justify-center gap-6">
