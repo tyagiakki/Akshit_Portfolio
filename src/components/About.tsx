@@ -30,7 +30,7 @@ const About = () => {
           </motion.div>
 
           <div className="grid md:grid-grid-cols-3 gap-8 mt-12">
-             <InfoCard title="2+ Years" subtitle="Experience" />
+             <InfoCard title="2 Years" subtitle="Experience" />
              <InfoCard title="10+ Projects" subtitle="Completed" />
           </div>
         </div>
