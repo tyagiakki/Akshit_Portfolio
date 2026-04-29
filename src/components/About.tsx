@@ -32,7 +32,6 @@ const About = () => {
           <div className="grid md:grid-grid-cols-3 gap-8 mt-12">
              <InfoCard title="2+ Years" subtitle="Experience" />
              <InfoCard title="10+ Projects" subtitle="Completed" />
-             <InfoCard title="Remote" subtitle="Available" />
           </div>
         </div>
       </div>
